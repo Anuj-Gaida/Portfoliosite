@@ -23,8 +23,7 @@ export default function Home() {
             
             <AnimatedText  text="Turning Vision Into Reality With Code And Design."  className='!text-6xl !text-left '/>
             <p style={{ position: "absolute", right: "5rem", top: "60vh", width: "60vw"}} className='my-4 text-base font-medium'>
-              As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
-              Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+            Hi, I’m a passionate Computer Engineer, blending technology with creativity to solve real-world challenges. With expertise in AI, Data Science, I craft intelligent solutions that bridge the gap between data and decisions!
             </p>
             <div style={{ position: "absolute", right: "5rem", top: "80vh", width: "60vw"}} className='flex items-center self-start mt-2'>
               <Link href="/dummy.pdf" target={"_blank"}
